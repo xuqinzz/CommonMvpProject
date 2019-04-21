@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+build/
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+# 在Android Studio 2.2及更高版本中生成的外部原生构建文件夹
+.externalNativeBuild
+
